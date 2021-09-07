@@ -1,0 +1,77 @@
+.iphone{
+  height:500px;
+  width: 40%;
+  position:relative;
+  transform: rotate(20deg);
+  margin: 0px 50px 0PX 50PX;
+
+
+
+}
+.heart{
+  height: 12%;
+}
+.tick{
+  height: 10%;
+}
+.bullseye{
+  height: 10%;
+}
+.tnw{
+  height: 80px;
+}
+.easy{
+  margin: 100px 0px 100px 0px;
+  height: 300px;
+  text-align: center;
+  font-size: 1.5rem;
+}
+.brands img{
+  height: 40%;
+  width: 60%;
+  margin: 20px 0px 50px 0px;
+  padding:0px 20px 0px 5px;
+  border: none;
+}
+
+.brands{
+  margin-top: 300px;
+  padding:0px 50px 0px 50px;
+}
+.text-end{
+  margin-bottom: 400px;
+}
+.truedog{
+  font-size: 6rem;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.last{
+  margin-bottom:200px;
+}
+.down{
+  margin-top:150px;
+}
+
+.doglife{
+  height: 600px;
+  margin-top: 100px;
+}
+.top{
+  font-weight: bolder;
+  font-family:monospace;
+  line-height: 2.0;
+  font-size: 4rem;
+}
+
+.social img{
+  height: 40px;
+  margin: 100px 30px 50px 0px;
+  }
+  #myslide{
+    height: 600px;
+  }
+.everydog{
+  margin-top: 100px;
+
+}
